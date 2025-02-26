@@ -1,0 +1,108 @@
+header{
+    color: #a9a9a9;
+    background-color: #0b0b31;
+    height: 37.00;
+    padding: 2px;
+    text-align: left;
+    margin-right: 2px;
+    letter-spacing: 2px;
+    font-size: 5px;
+    font-family: sans-serif;
+    word-spacing: 1000px;
+    
+}
+
+.logobar
+{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.flexContainer {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    
+}
+
+.flexItem1 {
+    background-color: #0b0b31;
+    color: #a9a9a9;
+    
+    
+}
+
+.flexItem2{
+    background-color: #0b0b31;
+    color: #a9a9a9
+}
+
+.dots {
+    
+    text-align: center;
+    
+}
+
+.flexContainer2{
+    display: flex;
+    flex-direction: row;
+    border-style: solid;
+    border-bottom: 2px;
+    border-color: #a9a9a9;
+    height: 300px;
+    padding: 40px;
+    margin: auto;
+    text-align: center;
+    color: #a9a9a9;
+    
+
+}
+
+.smart{
+    color: #0b0b31;
+    display: block;
+    border-left: 2px #a9a9a9;
+    height: 50px;
+    
+    
+}
+
+.Lorem1 {
+    color: #a9a9a9;
+
+}
+
+
+.strong {
+    color:#0b0b31
+}
+
+.Lorem2 {
+    color: #a9a9a9;
+}
+
+.stable {
+    color: #0b0b31;
+}
+
+.Lorem3 {
+    color: #a9a9a9;
+}
+
+button {
+    color: #a9a9a9;
+    background-color: #0b0b31;
+}
+
+.flexContainer3 {
+    color: #ffffff;
+    background-color: #15212e;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+
+
