@@ -20,9 +20,12 @@ header{
 }
 
 .flexContainer {
-    display: flex;
-    flex-direction: row;
-    text-align: left;
+    background-color: #0b0b31;   
+    color: #ffffff;
+    border-radius: 10%;
+    margin: 0 10px;
+    padding: 10px 3%;
+    
     
 }
 
